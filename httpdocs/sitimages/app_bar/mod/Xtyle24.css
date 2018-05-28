@@ -13,7 +13,7 @@ background-image: url();
 background-repeat: repeat; 
 background-attachment:fixed;
 background-position: top left;
-background-color:#b70100;
+background-color:#0219f7;
 font-family: arial;
 font-size:14px;
 line-height:23px;
@@ -92,8 +92,8 @@ A.compania:link			{ color:#c12222;	font-size: 14px;	font-weight: normal;		font-f
 A.compania:visited		{ color:#c12222;	font-size: 14px;	font-weight: normal;		font-family:verdana, Arial, Helvetica, sans-serif;text-decoration: none; }
 A.compania:hover			{ color:#ee4646;	font-size: 14px;	font-weight: normal;		font-family:verdana, Arial, Helvetica, sans-serif;text-decoration: none; }
 	
-A.modulo:link			{ color:#ff0f0f;	font-size: 14px;	font-weight: normal;		font-family:verdana, Arial, Helvetica, sans-serif;text-decoration: none; }
-A.modulo:visited		{ color:#ff0f0f;	font-size: 14px;	font-weight: normal;		font-family:verdana, Arial, Helvetica, sans-serif;text-decoration: none; }
+A.modulo:link			{ color:#198dc6;	font-size: 14px;	font-weight: normal;		font-family:verdana, Arial, Helvetica, sans-serif;text-decoration: none; }
+A.modulo:visited		{ color:#198dc6;	font-size: 14px;	font-weight: normal;		font-family:verdana, Arial, Helvetica, sans-serif;text-decoration: none; }
 A.modulo:hover			{ color:#acd340;	font-size: 14px;	font-weight: normal;		font-family:verdana, Arial, Helvetica, sans-serif;text-decoration: none; }
 	
 	
@@ -197,7 +197,6 @@ cursor: default;
 line-height:18px;
 text-shadow:1px 1px 2px #111111;
 }
-
 
 
 a.sel:hover img {
@@ -381,6 +380,8 @@ border-radius: 7px;
 }
 
 
+
+
 .button {
 	background-color: #90ba2b;
 	background-image: url(/sitimages/app_bar/mod/button.png);
@@ -443,6 +444,8 @@ border-radius: 7px;
 	background-repeat: repeat;
 	border-left: 1px solid #610606;
 }
+
+
 
 
 font.sectit
@@ -593,7 +596,7 @@ ul{	margin:0px;	padding:0;}
 	font-family: Arial;
 	font-size: 15px;
 	font-weight:normal;
-	color: #ff0f0f;
+	color: #198dc6;
 	text-decoration: none;
 	background: url(/sitimages/menu/color1.png) no-repeat;
 	background-position: 0 0px;
@@ -611,7 +614,7 @@ ul{	margin:0px;	padding:0;}
 	font-family: Arial;
 	font-size: 15px;
 	font-weight:normal;
-	color: #c70c0c;
+	color: #06519d;
 }
 .yui-skin-sam .yui-accordionview li.yui-accordion-panel a.yui-accordion-toggle.active {
 	background: url(/sitimages/menu/color1.png) no-repeat;
@@ -619,7 +622,7 @@ ul{	margin:0px;	padding:0;}
 	font-family: Arial;
 	font-size: 15px;
 	font-weight:normal;
-	color: #ff0f0f;
+	color: #198dc6;
 	text-decoration: none;
 }
 .yui-skin-sam .yui-accordionview li.yui-accordion-panel a.yui-accordion-toggle.active:hover {
@@ -629,7 +632,7 @@ ul{	margin:0px;	padding:0;}
 	font-family: Arial;
 	font-size: 15px;
 	font-weight:normal;
-	color: #c70c0c;
+	color: #06519d;
 }
 
 
@@ -641,7 +644,7 @@ A.acormenu:link			{ color:#666666;	font-size: 12px;
 	padding: 1px;
 	line-height:16px;	font-weight: normal;	font-family: Verdana, Arial, Helvetica, sans-serif;	text-decoration: none;}
 A.acormenu:visited	{ color:#666666;}
-A.acormenu:hover		{ color:#ff0f0f;}
+A.acormenu:hover		{ color:#198dc6;}
 
 font.sub
 {	font-family:  verdana;	background: ;	color:#454545;	font-size: 12px;	line-height:18px;	font-weight: bold;	text-decoration: none;	cursor: default;	width:235px; }
