@@ -34,7 +34,7 @@ $user_full_name .= " " . $usr['lastname'];
       <td width=100% >
         <table border="0" cellspacing="0" cellpadding="0">
           <td valign=middle align=left nowrap>&nbsp; <a href='/'><img src=/sitimages/app_bar/mod/direksysRN.png border=0 height=25px></a></td>
-          <td><img src="/sitimages/banderamexico.jpg" border=0></td>
+          <td><img src="/sitimages/banderausa.jpg" border=0></td>
           <td valign=middle align=left nowrap>
             <a href="/"  class="anchorclass compania" rel="submenu1[click]">
             <font class="compania"><?php echo $cfg['app_title']; ?> </font>

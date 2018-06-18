@@ -137,7 +137,7 @@ if (trim($usr['middlename']) != "") {
       <td width=100% >
         <table border="0" cellspacing="0" cellpadding="0">
           <td valign=middle align=left nowrap>&nbsp; <a href="<?php echo $cfg['admin_url'] . $usr['application']; ?><?php echo "/admin?cmd=home&e=$in[e]"?>"><img src=/sitimages/app_bar/mod/direksysRN.png border=0 height=25px></a></td>
-          <td><img src="/sitimages/banderamexico.jpg" border=0></td>
+          <td><img src="/sitimages/banderausa.jpg" border=0></td>
           <td valign=middle align=left nowrap>
             <font class="compania"><?php echo $cfg['app_title']; ?> </font>
             </td>
